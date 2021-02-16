@@ -1,0 +1,102 @@
+body {
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+html {
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+#mainContainer {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  margin: 0px;
+  padding: 0px;
+}
+
+#logoBox {
+  width: 40px;
+  height: 40px;
+  background-color: #CAC7D9;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  font-family: sans-serif;
+  color: #5D568C;
+  padding: 10px;
+}
+
+#menu {
+  height: 100%;
+  width: 225px;
+  background-color: #D99F7E;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  padding: 25px;
+  color: #F2F2F2;
+  font-family: sans-serif;
+}
+
+#contentContainer {
+  padding-left: 250px;
+  height: 450px;
+}
+
+#headerSection {
+  height: 450px;
+  background-image: url(https://static.billboard.com/files/2020/10/Sasha-Sloan-cr-Susanne-Kindt-2020-billboard-1548-1602778830-compressed.jpg);
+  background-size: cover;
+  background-position: top center;
+  font-family: sans-serif;
+  color: #fff;
+  padding-left: 75px;
+  padding-top: 50px;
+}
+
+#insetContent {
+  padding: 50px 50px 10px 75px;
+  font-family: sans-serif;
+  color: #403131;
+}
+
+.thumbnail {
+  width: 30%;
+  display: inline;
+  padding: 5px;
+  margin: 10px;
+}
+
+#specialTitle {
+  border-bottom: 5px solid #403131;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  color: #403131;
+}
+
+#bottomNav {
+  background-color: #B8D9D5;
+  padding: 10px;
+  margin: 50px 0px 50px 0px;
+  box-sizing: border-box;
+}
+
+.bottomButton {
+  box-sizing: border-box;
+  display: inline;
+  padding: 15px;
+  margin: 10px;
+  font-family: sans-serif;
+  color: #403131;
+}
+
+#footerSignature {
+  text-align: right;
+}
